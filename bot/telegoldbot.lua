@@ -259,22 +259,15 @@ function create_config( )
     sudo_users = {122774063},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V3
-    An Advanced Anti Spam Bot Forked On TeleSeed
+    about_text = [[telegold Bot V3
+    An Advanced Anti Spam Bot Forked On Telegold
     
-    Develpoed By:
-    @Mr_Ah_S
-    
-    Special Thanks To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
-    
-    Powered By @Sbss_Team
+   sudo: @fucker_rasol_fucker
+   
+   chanel: @fucker_rasol
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/rasol-fucker/tele-gold
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -349,6 +342,7 @@ See Patterns In Github
 حذف فیلتر یک کلمه
 لیست فیلتر
 لیست کلمات فیلتر شده
+rasol fucker
 
 ]],
     help_text = [[
@@ -429,7 +423,7 @@ ____________
 Send /share to get robot number
 ____________
 You can use [ ! , / or # ]or don’t use them
-More Details on @Sbss_Team
+More Details on rasol fucker
 ]]
   }
   serialize_to_file(config, './data/config.lua')
