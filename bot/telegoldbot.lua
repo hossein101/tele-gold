@@ -255,7 +255,8 @@ function create_config( )
     "time",
     "webshot",
     "welcome",
-    "inSuper"
+    "inSuper",
+    "telegold"
     },
     sudo_users = {101564409},--Sudo users
     disabled_channels = {},
